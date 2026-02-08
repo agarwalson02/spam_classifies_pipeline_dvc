@@ -98,5 +98,4 @@ We use **DVCLive** for automatic logging of parameters and metrics during the tr
 └── pyproject.toml      # Project dependencies
 ```
 
----
-*Created by [Antigravity AI](https://github.com/google-deepmind) 🚀*
+
